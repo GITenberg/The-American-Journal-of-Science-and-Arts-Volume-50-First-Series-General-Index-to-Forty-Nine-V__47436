@@ -29,6 +29,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The American Journal of Science and Arts, Volume 50 (First Series)
 
   General Index to Forty-Nine Volumes'
